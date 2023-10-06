@@ -1,0 +1,350 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+44537
+Successfully changed project path to: /home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D
+/home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79,85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Initialize engine version: 2021.1.10f1 (b15f561b2cef)
+[Subsystems] Discovering subsystems at path /home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D/Assets
+GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 23.0.4-0ubuntu1~22.04.1
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_share
+d_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1164880896
+Initialize mono
+Mono path[0] = '/home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/Managed'
+Mono path[1] = '/home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56462
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/igorlohan/Unity/Hub/Editor/2021.1.10f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001030 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80,85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,350 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1350ms)
+		BeginReloadAssembly (26ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (423ms)
+			LoadAssemblies (25ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (146ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (208ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (94ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0,003131 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /home/igorlohan/Downloads/UNIPE/curso-jogo-de-navinha-2d-projeto-unity-main/Jogo de Navinha 2D/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 82,26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,115 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1116ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (958ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (328ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (409ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3678 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132,8 MB.
+System memory in use after: 133,1 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4127.
+Total: 5,857067 ms (FindLiveObjects: 0,380932 ms CreateObjectMapping: 0,409239 ms MarkObjects: 4,872325 ms  DeleteObjects: 0,193324 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Power-Up de Vida.prefab
+  artifactKey: Guid(364bf5686d876f54ba9be73c4d6b43c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Power-Up de Vida.prefab using Guid(364bf5686d876f54ba9be73c4d6b43c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9014ef4999e776f8d96927dadfc9802') in 0,096683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000238 seconds.
+  path: Assets/Prefabs/Laser do Inimigo Verde.prefab
+  artifactKey: Guid(da15a534e7a57fe4086376bbf094ae05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Laser do Inimigo Verde.prefab using Guid(da15a534e7a57fe4086376bbf094ae05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffb2aaa1ad8d1b01ba6d2daa03b660a') in 0,004875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000138 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab
+  artifactKey: Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab using Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d26290c9ad5ec76566a53b7859f1ae') in 0,007345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000271 seconds.
+  path: Assets/Prefabs/Explosão.prefab
+  artifactKey: Guid(df16680d4a11b6e4a82e2e7c079750be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Explosão.prefab using Guid(df16680d4a11b6e4a82e2e7c079750be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db478707c4bcdb9c5e26e35e7097e390') in 0,022346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000168 seconds.
+  path: Assets/Prefabs/Nave do Jogador.prefab
+  artifactKey: Guid(ff3325f4d6d48a943a086f947c4ba466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Nave do Jogador.prefab using Guid(ff3325f4d6d48a943a086f947c4ba466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91d71de2bf342623a9a3d558af6a6f3') in 0,011938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000173 seconds.
+  path: Assets/Prefabs/Laser do Inimigo Azul.prefab
+  artifactKey: Guid(284ae934149d3af41bed51da08b54e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Laser do Inimigo Azul.prefab using Guid(284ae934149d3af41bed51da08b54e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a281f1a5a940e58da4c3e9fbe01dd2f4') in 0,008012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000228 seconds.
+  path: Assets/Sprites/Cenário/Background.png
+  artifactKey: Guid(89d64bad4667d814789e7a07c55550ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cenário/Background.png using Guid(89d64bad4667d814789e7a07c55550ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14ad26cceaac1fd9eb12f016807517a') in 0,031121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000149 seconds.
+  path: Assets/Prefabs/Efeitos Sonoros.prefab
+  artifactKey: Guid(28e605d7330b1644fa9c95ca4e877c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Efeitos Sonoros.prefab using Guid(28e605d7330b1644fa9c95ca4e877c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefba43888249d354bd43cfdc1f4e2c9') in 0,001919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000170 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab
+  artifactKey: Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224dcf8af930b56afe774afd5bc52eb2') in 0,002675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000196 seconds.
+  path: Assets/Prefabs/Planeta 2.prefab
+  artifactKey: Guid(fdbf871c8a84902459d3a973b0e81c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planeta 2.prefab using Guid(fdbf871c8a84902459d3a973b0e81c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14442b35d5d0ce1f1b97c6d950c11f98') in 0,006928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000153 seconds.
+  path: Assets/Prefabs/Inimigo Verde.prefab
+  artifactKey: Guid(5e3e662a3f8277b47880749059aa572e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Inimigo Verde.prefab using Guid(5e3e662a3f8277b47880749059aa572e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8543d11377b373807a4d81e2feb4d096') in 0,006978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000136 seconds.
+  path: Assets/Prefabs/Músicas.prefab
+  artifactKey: Guid(173160917e0aaae4897c4a41aba57672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Músicas.prefab using Guid(173160917e0aaae4897c4a41aba57672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87651b3cc02461b4daa1a20eda040b3') in 0,001731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000152 seconds.
+  path: Assets/Prefabs/Planeta 1.prefab
+  artifactKey: Guid(66b996fa53ad7fc41ae051d771154610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planeta 1.prefab using Guid(66b996fa53ad7fc41ae051d771154610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81bf9c1777e02b849f0a426abe157a21') in 0,006724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000124 seconds.
+  path: Assets/Prefabs/Limites do Cenário.prefab
+  artifactKey: Guid(3ef264e4c34576c44a161f565986c70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Limites do Cenário.prefab using Guid(3ef264e4c34576c44a161f565986c70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1a02fdbbcfd7f40c45d8650713e24e') in 0,001621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000126 seconds.
+  path: Assets/Prefabs/Impacto do Laser do Inimigo.prefab
+  artifactKey: Guid(f635eb5ba14ae2c4d9c35e03d5633c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacto do Laser do Inimigo.prefab using Guid(f635eb5ba14ae2c4d9c35e03d5633c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0f1e9a61f960d7366be7d5abe11b61') in 0,004773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000164 seconds.
+  path: Assets/Prefabs/Impacto do Laser do Jogador.prefab
+  artifactKey: Guid(f86941486d646f148ae202939411906d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Impacto do Laser do Jogador.prefab using Guid(f86941486d646f148ae202939411906d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed14210a66693b51965c6496a0b55de') in 0,008306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000173 seconds.
+  path: Assets/Prefabs/Power-Up de Laser.prefab
+  artifactKey: Guid(b0cfc0f9fb195e744afbbad27e1a7494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Power-Up de Laser.prefab using Guid(b0cfc0f9fb195e744afbbad27e1a7494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a970968c05a4386c164fcd47e7661b1e') in 0,007434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000111 seconds.
+  path: Assets/Prefabs/Ativador de Inimigos.prefab
+  artifactKey: Guid(5e5fd1ab27921dc44972abe0f4ce6fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ativador de Inimigos.prefab using Guid(5e5fd1ab27921dc44972abe0f4ce6fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1121534f7ad995e22e02c74ae89ea1b') in 0,001928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000134 seconds.
+  path: Assets/Sprites/Cenário/Materials/Background.mat
+  artifactKey: Guid(20b4e93a6f643e747849f29846521532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cenário/Materials/Background.mat using Guid(20b4e93a6f643e747849f29846521532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4c453c6c8cea1f70865d0c402e4119') in 0,023430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000119 seconds.
+  path: Assets/Fonts/upheavtt.ttf
+  artifactKey: Guid(e0edf4fc914aa404abc4a5dad59d00f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/upheavtt.ttf using Guid(e0edf4fc914aa404abc4a5dad59d00f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8d9295937dde5f58418cd603c00877') in 0,045538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000356 seconds.
+  path: Assets/Prefabs/Destruidor de Inimigos.prefab
+  artifactKey: Guid(52295b3b54c7c0d4cb5439847077c68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Destruidor de Inimigos.prefab using Guid(52295b3b54c7c0d4cb5439847077c68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a9dec6f3ab27009f6dbb40772508f5') in 0,003143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000280 seconds.
+  path: Assets/Prefabs/Inimigo Azul.prefab
+  artifactKey: Guid(e4b332e86908fd44b9aebe2821163e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Inimigo Azul.prefab using Guid(e4b332e86908fd44b9aebe2821163e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8369f8392baac3ac77b1f3229797937e') in 0,012718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000306 seconds.
+  path: Assets/Prefabs/Power-Up de Escudo.prefab
+  artifactKey: Guid(4121a925a097a2c41b97461ec758e0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Power-Up de Escudo.prefab using Guid(4121a925a097a2c41b97461ec758e0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e815533131b10c54ad06e49e44c1a9') in 0,009340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000250 seconds.
+  path: Assets/Prefabs/Laser do Jogador.prefab
+  artifactKey: Guid(3bc55fed1ecb5d44cbd1b771f68b5217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Laser do Jogador.prefab using Guid(3bc55fed1ecb5d44cbd1b771f68b5217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcab08d5af4619930b5df60c854f694') in 0,010784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000123 seconds.
+  path: Assets/Prefabs/Inimigo Roxo.prefab
+  artifactKey: Guid(0a3a002d9444d534cb8e9571eb51c796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Inimigo Roxo.prefab using Guid(0a3a002d9444d534cb8e9571eb51c796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8143f6bb654ea5dd890f7b39e139eb') in 0,008278 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3,31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63,3 MB.
+System memory in use after: 63,6 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4177.
+Total: 3,749775 ms (FindLiveObjects: 0,256654 ms CreateObjectMapping: 0,149162 ms MarkObjects: 3,312496 ms  DeleteObjects: 0,015274 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13,879135 seconds.
+  path: Assets/Efeitos Sonoros/Som da Explosão do Inimigo.ogg
+  artifactKey: Guid(28d1275bcf482484d9b4f698c3fa9765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Efeitos Sonoros/Som da Explosão do Inimigo.ogg using Guid(28d1275bcf482484d9b4f698c3fa9765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd36046e959f219b23c00e9f6c4932e') in 0,023731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000257 seconds.
+  path: Assets/Efeitos Sonoros/Som de Impacto do Laser.wav
+  artifactKey: Guid(074e0373b74e68841b0c2451750dabd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Efeitos Sonoros/Som de Impacto do Laser.wav using Guid(074e0373b74e68841b0c2451750dabd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26b535eccacb6fcce5921cebe154ff1') in 0,006100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000195 seconds.
+  path: Assets/Efeitos Sonoros/Som do Laser do Jogador.aiff
+  artifactKey: Guid(be4075f4114f9304cbb723457df8bc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Efeitos Sonoros/Som do Laser do Jogador.aiff using Guid(be4075f4114f9304cbb723457df8bc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a93f2342efed8d155732bed0c8375cd') in 0,008882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1,390576 seconds.
+  path: Assets/Músicas/Música de Fundo.wav
+  artifactKey: Guid(475236454c6876748aaef4dd5493eb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Músicas/Música de Fundo.wav using Guid(475236454c6876748aaef4dd5493eb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b56a507eefb598c8c1d426cee54798e') in 0,003917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000218 seconds.
+  path: Assets/Músicas/Música de Game Over.wav
+  artifactKey: Guid(3eea10e001ee36a4c85bf7c9b1838295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Músicas/Música de Game Over.wav using Guid(3eea10e001ee36a4c85bf7c9b1838295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa16bf7dd827916d7b68ccb981413d93') in 0,004595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7,019374 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(b5f352431125d6d48922ae5f729b6321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(b5f352431125d6d48922ae5f729b6321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643dc8424af9cffbf4f0a2698ad3d8d5') in 0,000570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29,077254 seconds.
+  path: Packages/com.unity.2d.animation/package.json
+  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5b71c338a1bb914954d4c02dd75ea2') in 0,001020 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
